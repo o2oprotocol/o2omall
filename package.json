@@ -1,0 +1,29 @@
+{
+  "name": "o2omall",
+  "version": "1.0.0",
+  "description": "Online to Offline Marketplace using Chatbot & Blockchain Technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o2oprotocol/o2omall.git"
+  },
+  "keywords": [
+    "O2O",
+    "O2O",
+    "Marketplace",
+    "O2O",
+    "Mall",
+    "Chatbot",
+    "Blockchain",
+    "Marketplace"
+  ],
+  "author": "O2OProtocol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/o2oprotocol/o2omall/issues"
+  },
+  "homepage": "https://github.com/o2oprotocol/o2omall#readme"
+}
