@@ -24,3 +24,8 @@ O2O Mall - Online to Offline Marketplace SaaS Platform using Chatbot &amp; Block
 - **Review**: Reviews could also not disappear as Blockchains are tamper-proofs.
 
 The Blockchain benefits from better incentive alignment by rewarding participants through Token Distribution + Token Appreciation, which current centralized marketplaces have not done.
+
+> Technology can bridge trust by offering:
+- **Identity Verification** — Who is this person and do I trust them?
+- **Reviews** — Have others stayed here and do they like it? What do other hosts have to say about this guest?
+- **Assurance** — If something happens, can I call on someone during my travels? If my home is a mess, will I be covered for my loss?
